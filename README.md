@@ -6,9 +6,9 @@ Dorilla Games' website and application are built using Flutter (a powerful frame
 
 Flutter code: https://github.com/suleymangunes/Dorilla-games-website
 
-<img src="https://github.com/suleymangunes/Dorilla-games-website/assets/62201710/b496d28e-f577-4989-ba26-b25df9203d57" width=1000>
-
 Website link: https://suleymangunes.github.io/DorillaGames/#/
+
+<img src="https://github.com/suleymangunes/Dorilla-games-website/assets/62201710/b496d28e-f577-4989-ba26-b25df9203d57" width=1000>
 
 ### Application Features
 
